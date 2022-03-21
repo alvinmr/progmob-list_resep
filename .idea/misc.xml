@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/bg_circle.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/bg_overlay.xml" value="0.1935" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/bg_rounded.xml" value="0.162" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.162" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/bg_search.xml" value="0.162" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_back_black.xml" value="0.162" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_dificulty.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_favorite.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_portion.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_search.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_times.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/drawable/ic_unfavorite.xml" value="0.32" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/maula/Documents/Development/Android/app/src/main/res/layout/recipe_list.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
